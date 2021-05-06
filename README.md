@@ -17,7 +17,7 @@
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
 </p>
 
-<img alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+<a href="https://www.credly.com/badges/2441371a-b504-4b15-a1bc-482480997bf4"><img src="https://images.credly.com/size/340x340/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" alt="HTML tutorial" style="width:42px;height:42px;"></a>
 
 ![Atul's github stats](https://github-readme-stats.vercel.app/api?count_private=true&theme=dark&username=iamatulsingh&show_icons=true&hide_border=true)
 
