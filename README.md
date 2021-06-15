@@ -17,7 +17,7 @@
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
 </p>
 
-![𝚅𝚒𝚜𝚒𝚝𝚘𝚛𝚜](https://visitor-badge.laobi.icu/badge?page_id=iamatulsingh&title=Visitor )
+![𝚅𝚒𝚜𝚒𝚝𝚘𝚛𝚜](https://visitor-badge.laobi.icu/badge?page_id=iamatulsingh&title=Visitors )
 
 <a href="https://www.credly.com/badges/2441371a-b504-4b15-a1bc-482480997bf4" target="_blank" rel="noopener noreferrer"><img src="https://images.credly.com/size/340x340/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" alt="CKA" style="width:42px;height:42px;"></a>
 
