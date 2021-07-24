@@ -6,7 +6,7 @@
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-45b8d8?style=flat-square&logo=python&logoColor=white" />
   <img alt="Go" src="https://img.shields.io/badge/-Go-45b8d8?style=flat-square&logo=go&logoColor=white" />
-  <img alt="C++" src="https://img.shields.io/badge/-C++-45b8d8?style=flat-square&logo=c++&logoColor=white" />
+  <img alt="C++" src="https://img.shields.io/badge/-C++-45b8d8?style=flat-square&logo=c%2b%2b&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
