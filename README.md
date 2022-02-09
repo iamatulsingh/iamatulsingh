@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm Atul Singh, Certified Kubernetes Administrator and a Software Engineer from <img src="https://image.flaticon.com/icons/svg/555/555462.svg" width="13"/> <b>UP, India</b>, currently living in <img src="https://image.flaticon.com/icons/svg/555/555462.svg" width="13"/> <b>Karnataka, India</b>. </p>
+<p>Welcome to my page! </br> I'm Atul Singh, Certified Kubernetes Administrator and a DevOps Engineer from :india: <b>India</b>, currently living in :de: <b>Germany</b>. </p>
 <h3>Things I work with</h3>
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-45b8d8?style=flat-square&logo=python&logoColor=white" />
