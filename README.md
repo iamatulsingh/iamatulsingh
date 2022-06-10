@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm Atul Singh, Certified Kubernetes Administrator and a DevOps Engineer from :india: <b>India</b>, currently living in :de: <b>Germany</b>. </p>
+<h3>Welcome to my page! </br> I'm Atul Singh, Certified Kubernetes Administrator (CKA) | DevOps Engineer from :india: <b>India</b>, currently living in :de: <b>Germany</b>. </h3>
 
 ![𝚅𝚒𝚜𝚒𝚝𝚘𝚛𝚜](https://visitor-badge.laobi.icu/badge?page_id=iamatulsingh&title=Visitors )
 
