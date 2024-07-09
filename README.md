@@ -1,13 +1,13 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
+<h1><img src="running.gif" width="90"/> Hey, nice to see you.</h1>
 
-
-<h3>Welcome to my page! </br> I'm Atul Singh, Certified Kubernetes Administrator (CKA) | DevOps Engineer from :india: <b>India</b>, currently living in :de: <b>Germany</b>. </h3>
+<h3>Welcome to my page! </br> I'm Atul Singh, Certified Kubernetes Administrator (CKA) | A Cloud and Software Engineer from :india: <b>India</b>, currently living in :de: <b>Germany</b>. </h3>
 
 ![𝚅𝚒𝚜𝚒𝚝𝚘𝚛𝚜](https://visitor-badge.laobi.icu/badge?page_id=iamatulsingh&title=Visitors )
 
 <div id="header" align="center">
-  <img src="https://4kwallpapers.com/images/walls/thumbs_2t/5947.png"/> <br/>
-  
+
+  ![Cover Image](./cover_img.gif)
+
   <a href="https://www.credly.com/badges/2441371a-b504-4b15-a1bc-482480997bf4" target="_blank" rel="noopener noreferrer"><img src="https://images.credly.com/size/340x340/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" alt="CKA"></a> <br/>
   
   <hr>
