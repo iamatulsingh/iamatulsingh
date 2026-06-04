@@ -1,6 +1,8 @@
 <h1><img src="running.gif" width="90"/> Hey, nice to see you.</h1>
 
-<h3>Welcome to my page! </br> I'm Atul Singh, Certified Kubernetes Administrator (CKA) | A Cloud and Software Engineer from :india: <b>India</b>, currently living in :de: <b>Germany</b>. </h3>
+<h3>Welcome to my page! </br> I'm Atul Singh, Certified Kubernetes Administrator (CKA) | A Cloud and Software Engineer. Creating practical AI, automation, and smart-device solutions
+, AI & IoT tinkerer and an Open-source contributor
+  </h3>
 
 ![𝚅𝚒𝚜𝚒𝚝𝚘𝚛𝚜](https://visitor-badge.laobi.icu/badge?page_id=iamatulsingh&title=Visitors )
 
